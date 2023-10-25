@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\bin\Debug\BaiTapMau.exe.config
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\obj\Debug\BaiTapMau.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\obj\Debug\BaiTapMau.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\obj\Debug\BaiTapMau.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\bin\Debug\BaiTapMau.exe
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\bin\Debug\BaiTapMau.pdb
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\obj\Debug\BaiTapMau.exe
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\obj\Debug\BaiTapMau.pdb
+E:\LuuDuLieuSinhVien\07_LTMNhat\BaiTapMau\BaiTapMau\obj\Debug\BaiTapMau.Form1.resources
